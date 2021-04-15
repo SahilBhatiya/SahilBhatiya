@@ -16,7 +16,6 @@
 </h4>
 <hr>
 
-<br>
 <h2 align="center">
     What I'M DOING
 </h2>
