@@ -27,10 +27,10 @@
     <a href="https://www.youtube.com/c/sahil bhatiya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="sahil bhatiya" height="30" width="40" /></a>
 </p>
 
-<h2>
+<h3>
     What I'M DOING
-</h2>
-<h4>
+</h3>
+<p>
     - UI / UX <br>
     - Web Development <br>
     - Seo Optimisation <br>
@@ -38,7 +38,7 @@
     - Graphic Designing <br>
     - Video Editing <br>
     - Android Apps <br>
-</h4>
+</p>
 <hr>
 
 
