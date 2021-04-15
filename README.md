@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Bhatiya</h1>
-<h3 align="center">
+<h2 align="center">
     ABOUT ME
-</h3>
+</h2>
 <h4 align="center">
    <p>
        I am a Software Developer with an innovative thinking sense who loves to develop high-end software with a piece of extraordinary knowledge.
