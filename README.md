@@ -21,14 +21,13 @@
     What I'M DOING
 </h2>
 <h4>
-    - UI / UX
-    - 👨‍💻 All of my projects are available at [https://sahilbhatiya.me/](https://sahilbhatiya.me/)
-    - Web Development
-    - Seo Optimisation
-    - Desktop Apps
-    - Graphic Designing
-    - Video Editing
-    - Android Apps
+    - UI / UX <br>
+    - Web Development <br>
+    - Seo Optimisation <br>
+    - Desktop Apps <br>
+    - Graphic Designing <br>
+    - Video Editing <br>
+    - Android Apps <br>
 </h4>
 <hr>
 
