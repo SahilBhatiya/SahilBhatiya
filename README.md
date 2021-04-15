@@ -3,9 +3,18 @@
     ABOUT ME
 </h3>
 <h4 align="center">
-    I am a Software Developer with an innovative thinking sense who loves to develop high-end software with a piece of extraordinary knowledge. Quality working habits, intuitive business sense, instant technology grasping power, witty implementation sense, underpin dedication to steer streamlined operations, and a creative brain helps me keep my work glowing incandescent. "Respected for the capacity to think outside the square", Graphics & UI-UX designing, software development, SEO & web optimization are some of the leading secret superpowers!
+   <p>
+       I am a Software Developer with an innovative thinking sense who loves to develop high-end software with a piece of extraordinary knowledge.
+   </p>
+    <p>
+        Quality working habits, intuitive business sense, instant technology grasping power, witty implementation sense, underpin dedication to steer streamlined operations, and a creative brain helps me keep my work glowing incandescent.
+    </p>
+    <p>
+        "Respected for the capacity to think outside the square", Graphics & UI-UX designing, software development, SEO & web optimization are some of the leading secret superpowers!
+    </p>
 </h4>
 <hr>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilbhatiya&label=Profile%20Views&color=0e75b6&style=flat" alt="sahilbhatiya" /> </p>
 
 <p align="left"> <a href="https://twitter.com/s_kbhatiya" target="blank"><img src="https://img.shields.io/twitter/follow/s_kbhatiya?logo=twitter&style=for-the-badge" alt="s_kbhatiya" /></a> </p>
