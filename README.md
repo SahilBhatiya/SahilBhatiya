@@ -16,6 +16,22 @@
 </h4>
 <hr>
 
+<br>
+<h2 align="center">
+    What I'M DOING
+</h2>
+<h4>
+    - UI / UX
+    - Web Development
+    -Seo Optimisation
+    -Desktop Apps
+    -Graphic Designing
+    -Video Editing
+    -Android Apps
+</h4>
+<hr>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilbhatiya&label=Profile%20Views&color=0e75b6&style=flat" alt="sahilbhatiya" /> </p>
 
 <p align="left"> <a href="https://twitter.com/s_kbhatiya" target="blank"><img src="https://img.shields.io/twitter/follow/s_kbhatiya?logo=twitter&style=for-the-badge" alt="s_kbhatiya" /></a> </p>
