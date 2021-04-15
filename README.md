@@ -1,4 +1,4 @@
-<body background="White">
+<body background="#ffffff">
 <h1 align="center">Hi 👋, I'm Sahil Bhatiya</h1>
 <br>
 <h2 align="center">
