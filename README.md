@@ -22,12 +22,13 @@
 </h2>
 <h4>
     - UI / UX
+    - 👨‍💻 All of my projects are available at [https://sahilbhatiya.me/](https://sahilbhatiya.me/)
     - Web Development
-    -Seo Optimisation
-    -Desktop Apps
-    -Graphic Designing
-    -Video Editing
-    -Android Apps
+    - Seo Optimisation
+    - Desktop Apps
+    - Graphic Designing
+    - Video Editing
+    - Android Apps
 </h4>
 <hr>
 
