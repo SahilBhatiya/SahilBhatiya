@@ -16,7 +16,7 @@
 </h4>
 <hr>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect With Me:</h3>
 <p align="left">
     <a href="https://codepen.io/sahilbhatiya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="sahilbhatiya" height="20" width="26" /></a>
     &nbsp;	&nbsp;&nbsp;
