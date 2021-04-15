@@ -28,7 +28,7 @@
 </p>
 
 <h3>
-    What I'M DOING
+    What I'm Doing
 </h3>
 <p>
     - UI / UX <br>
