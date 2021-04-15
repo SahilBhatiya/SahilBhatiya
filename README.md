@@ -31,7 +31,7 @@
     &nbsp;	&nbsp;&nbsp;
     <a href="https://medium.com/@sahil242bhatiya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sahil242bhatiya" height="20" width="26" /></a>
     &nbsp;	&nbsp;&nbsp;
-    <a href="https://www.youtube.com/c/sahil bhatiya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="sahil bhatiya" height="20" width="26" /></a>
+    <a href="https://www.youtube.com/channel/UCAXjmA_AsBnC5ODVWNcSvsg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="sahil bhatiya" height="20" width="26" /></a>
 </p>
 
 <h3>
