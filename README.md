@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sahil Bhatiya</h1>
-<h3 align="center">I am a Software Developer with an innovative thinking sense who loves to develop high-end software with a piece of extraordinary knowledge. Quality working habits, intuitive business sense, instant technology grasping power, witty implementation sense, underpin dedication to steer streamlined operations, and a creative brain helps me keep my work glowing incandescent. "Respected for the capacity to think outside the square", Graphics & UI-UX designing, software development, SEO & web optimization are some of the leading secret superpowers!</h3>
+<h3>
+About Me  
+</h3>
+<h6 align="center">I am a Software Developer with an innovative thinking sense who loves to develop high-end software with a piece of extraordinary knowledge. Quality working habits, intuitive business sense, instant technology grasping power, witty implementation sense, underpin dedication to steer streamlined operations, and a creative brain helps me keep my work glowing incandescent. "Respected for the capacity to think outside the square", Graphics & UI-UX designing, software development, SEO & web optimization are some of the leading secret superpowers!</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilbhatiya&label=Profile%20Views&color=0e75b6&style=flat" alt="sahilbhatiya" /> </p>
 
