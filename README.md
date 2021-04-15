@@ -4,7 +4,7 @@
 <h2 align="center">
     ABOUT ME
 </h2>
-<h4 align="center">
+<h4>
    <p>
        I am a Software Developer with an innovative thinking sense who loves to develop high-end software with a piece of extraordinary knowledge.
    </p>
