@@ -57,7 +57,7 @@
 
 - <!--📝--> I regularly write articles on https://medium.com/
 
-- <!--📫--> How to reach me **sahil242bhatiya@gmail.com**
+- <!--📫--> How to reach me at mailto:sahil242bhatiya@gmail.com
 
 
 <hr>
