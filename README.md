@@ -6,13 +6,7 @@
 </h2>
 <h4>
    <p>
-       I am a Software Developer with an innovative thinking sense who loves to develop high-end software with a piece of extraordinary knowledge.
-   </p>
-    <p>
-        Quality working habits, intuitive business sense, instant technology grasping power, witty implementation sense, underpin dedication to steer streamlined operations, and a creative brain helps me keep my work glowing incandescent.
-    </p>
-    <p>
-        "Respected for the capacity to think outside the square", Graphics & UI-UX designing, software development, SEO & web optimization are some of the leading secret superpowers!
+I am a Google DSC Lead, Founder of Softglare, and Chief Technology Officer of Webiflu. With experience managing teams and working with different kinds of technologies. I love technologies and helping others. I consider myself a 'forever student' and eager to build my career on academic foundations in sociology, technology, and leading teams through continued coursework.
     </p>
 </h4>
 <hr>
