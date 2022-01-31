@@ -25,23 +25,6 @@
 
 <hr>
 
-<h3 align="left">Connect With Me:</h3>
-<p align="left">
-    <a href="https://codepen.io/sahilbhatiya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="sahilbhatiya" height="20" width="26" /></a>
-    &nbsp;	&nbsp;&nbsp;
-    <a href="https://twitter.com/s_kbhatiya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="s_kbhatiya" height="20" width="26" /></a>
-    &nbsp;	&nbsp;&nbsp;
-    <a href="https://linkedin.com/in/sahil-bhatiya-73790719a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sahil-bhatiya-73790719a" height="20" width="26" /></a>
-    &nbsp;	&nbsp;&nbsp;
-    <a href="https://stackoverflow.com/users/14268451" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14268451" height="20" width="26" /></a>
-    &nbsp;	&nbsp;&nbsp;
-    <a href="https://fb.com/deep.bhatiya.7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="deep.bhatiya.7" height="20" width="26" /></a>
-    &nbsp;	&nbsp;&nbsp;
-    <a href="https://medium.com/@sahil242bhatiya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sahil242bhatiya" height="20" width="26" /></a>
-    &nbsp;	&nbsp;&nbsp;
-    <a href="https://www.youtube.com/channel/UCAXjmA_AsBnC5ODVWNcSvsg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="sahil bhatiya" height="20" width="26" /></a>
-</p>
-
 <h3>
     What I'm Doing:
 </h3>
