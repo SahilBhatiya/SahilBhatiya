@@ -44,11 +44,8 @@
 <h4 align="left">Languages and Tools:</h4>
 <p align="left">
 <img src="https://github.com/SahilBhatiya/SahilBhatiya/blob/main/CSharp.svg?raw=true" alt="aws" height="48"/> 
-&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/SahilBhatiya/SahilBhatiya/blob/main/CPP.svg?raw=true" alt="aws" height="48"/> 
-&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/SahilBhatiya/SahilBhatiya/blob/main/Python.svg?raw=true" alt="aws" height="48"/> 
-&nbsp;&nbsp;&nbsp;
 </p>
 
 <div align="center">
