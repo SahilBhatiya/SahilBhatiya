@@ -1,9 +1,9 @@
 
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Sahil Bhatiya
+<h3> Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Sahil Bhatiya </h3>
 <br>
-<h2 align="center">
+<h4 align="center">
     ABOUT ME
-</h2>
+</h4>
 
 <p align="center">
 <a  href="https://www.buymeacoffee.com/sahil242Bhatiya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
