@@ -53,7 +53,7 @@
 
 <div align="center">
 <h5>👨‍💻 Visit My Website For More Information https://sahilbhatiya.me/ </h5>
-
+<br>
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=SahilBhatiya)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SahilBhatiya) -->
@@ -64,12 +64,13 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=SahilBhatiya&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
 </a>
 <br>
+<br>
 <a href="https://github.com/SahilBhatiya/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SahilBhatiya&layout=compact&theme=material-palenight" />
 </a>
 
 
-    <h5> Made With ❤️ By Sahil Bhatiya </h5>
+<h5> Made With ❤️ By Sahil Bhatiya </h5>
 
 </div>
