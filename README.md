@@ -1,5 +1,5 @@
 
-<h3> Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Sahil Bhatiya </h3>
+<h3 align="center"> Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Sahil Bhatiya </h3>
 <br>
 <h4 align="center">
     ABOUT ME
