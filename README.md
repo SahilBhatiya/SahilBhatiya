@@ -54,7 +54,7 @@ I am a Google DSC Lead, Founder of Softglare, and Chief Technology Officer of We
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SahilBhatiya)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SahilBhatiya)
+<!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SahilBhatiya) -->
 
 [![my github activity graph](https://activity-graph.herokuapp.com/graph?username=SahilBhatiya&theme=redical)](https://github.com/SahilBhatiya/github-readme-activity-graph)
 
