@@ -6,7 +6,7 @@
 </h2>
 
 
-<h6>
+<h6 width="300">
         I am a Google DSC Lead, Founder of Softglare, and Chief Technology Officer of Webiflu. With experience managing teams and working with different kinds of technologies. I love technologies and helping others. I consider myself a 'forever student' and eager to build my career on academic foundations in sociology, technology, and leading teams through continued coursework.
 </h6>
 
