@@ -4,12 +4,12 @@
 <h2 align="center">
     ABOUT ME
 </h2>
-<h4>
+<h6>
    <p>
 I am a Google DSC Lead, Founder of Softglare, and Chief Technology Officer of Webiflu. With experience managing teams and working with different kinds of technologies. I love technologies and helping others. I consider myself a 'forever student' and eager to build my career on academic foundations in sociology, technology, and leading teams through continued coursework.
        <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
     </p>
-</h4>
+</h6>
 <hr>
 
 <h3 align="left">Connect With Me:</h3>
