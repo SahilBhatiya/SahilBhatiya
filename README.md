@@ -59,15 +59,16 @@
 <h5> - 👨‍💻 All of my projects are available at https://sahilbhatiya.me/ </h5>
 <h5> - 💼 Any freelance work? do reach me :) </h5>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SahilBhatiya)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=SahilBhatiya)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <!-- ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SahilBhatiya) -->
 
-[![my github activity graph](https://activity-graph.herokuapp.com/graph?username=SahilBhatiya&theme=redical)](https://github.com/SahilBhatiya/github-readme-activity-graph)
+<!-- [![my github activity graph](https://activity-graph.herokuapp.com/graph?username=SahilBhatiya&theme=redical)](https://github.com/SahilBhatiya/github-readme-activity-graph) -->
 
 <a href="https://github.com/SahilBhatiya/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=SahilBhatiya&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
 </a>
+<br>
 <a href="https://github.com/SahilBhatiya/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SahilBhatiya&layout=compact&theme=material-palenight" />
