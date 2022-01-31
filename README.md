@@ -19,8 +19,8 @@
     <br>
 <div>
 <div align="center">
-[<img src="https://img.shields.io/badge/Email-moe%40chocola.dev-orange">](mailto:sahil242bhatiya@gmail.com)
-[<img src="https://img.shields.io/badge/Personal%20Site-moepoi.dev-red">](https://sahilbhatiya.me)
+![<img src="https://img.shields.io/badge/Email-moe%40chocola.dev-orange">](mailto:sahil242bhatiya@gmail.com)
+![<img src="https://img.shields.io/badge/Personal%20Site-moepoi.dev-red">](https://sahilbhatiya.me)
 </div>
 <h4>
     Where To Find Me
