@@ -4,7 +4,6 @@
     <br>
      <img src="https://komarev.com/ghpvc/?username=sahilbhatiya&label=Profile%20Views&color=0e75b6&style=flat" alt="sahilbhatiya" />
 </h3>
-<br>
 <h4 align="center">
     ABOUT ME
 </h4>
