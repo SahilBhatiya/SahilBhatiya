@@ -50,11 +50,9 @@ I am a Google DSC Lead, Founder of Softglare, and Chief Technology Officer of We
 https://sahilbhatiya.me/
 
 
-<p align="left"> <a href="https://twitter.com/s_kbhatiya" target="blank"><img src="https://img.shields.io/twitter/follow/s_kbhatiya?logo=twitter&style=for-the-badge" alt="s_kbhatiya" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/s_kbhatiya" target="blank"><img src="https://img.shields.io/twitter/follow/s_kbhatiya?logo=twitter&style=for-the-badge" alt="s_kbhatiya" /></a> </p> -->
 
-- <!--👨‍💻--> All of my projects are available at https://sahilbhatiya.me/
-
-- <!--📝--> I regularly write articles on https://medium.com/
+- 👨‍💻 All of my projects are available at https://sahilbhatiya.me/
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SahilBhatiya)](https://github.com/ryo-ma/github-profile-trophy)
 
