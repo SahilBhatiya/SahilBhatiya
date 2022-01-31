@@ -30,12 +30,10 @@
     What I'm Doing:
 </h4>
 <h6>
-    - UI / UX <br>
-    - Web Development <br>
-    - Seo Optimisation <br>
+    - Web Apps <br>
     - Desktop Apps <br>
+    - UI / UX Designing <br>
     - Graphic Designing <br>
-    - Video Editing <br>
     - Android Apps <br>
 </h6>
 
