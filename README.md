@@ -47,6 +47,8 @@
 &nbsp;&nbsp;&nbsp;
 <img src="https://github.com/SahilBhatiya/SahilBhatiya/blob/main/CPP.svg?raw=true" alt="aws" height="48"/> 
 &nbsp;&nbsp;&nbsp;
+<img src="https://github.com/SahilBhatiya/SahilBhatiya/blob/main/Python.svg?raw=true" alt="aws" height="48"/> 
+&nbsp;&nbsp;&nbsp;
 </p>
 
 <div align="center">
