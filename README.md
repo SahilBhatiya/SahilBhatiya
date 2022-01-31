@@ -5,6 +5,7 @@
     ABOUT ME
 </h2>
 
+<a align="center" href="https://www.buymeacoffee.com/sahil242Bhatiya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <h6>
         I am a Google DSC Lead, Founder of Softglare, and Chief Technology Officer of Webiflu. With experience managing teams and working with different kinds of technologies. I love technologies and helping others. I consider myself a 'forever student' and eager to build my career on academic foundations in sociology, technology, and leading teams through continued coursework.
