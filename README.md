@@ -67,7 +67,6 @@ I am a Google DSC Lead, Founder of Softglare, and Chief Technology Officer of We
 </a>
 
 <div align="center">
-
-### Made With ❤️ By Sahil Bhatiya
+    <h5> Made With ❤️ By Sahil Bhatiya </h5>
 
 </div>
