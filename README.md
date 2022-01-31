@@ -53,7 +53,6 @@
 
 <div align="center">
 <h5>👨‍💻 Visit My Website For More Information https://sahilbhatiya.me/ </h5>
-<h5>💼 Any freelance work? do reach me :) </h5>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=SahilBhatiya)](https://github.com/ryo-ma/github-profile-trophy) -->
 
