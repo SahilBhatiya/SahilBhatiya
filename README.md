@@ -1,8 +1,11 @@
 
-<h3 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sahil Bhatiya 
+<h3 align="center"> Hi there 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sahil Bhatiya 
     <br>
     <br>
+    <a href="https://sahil242.netlify.app/">
      <img src="https://komarev.com/ghpvc/?username=sahilbhatiya&label=Profile%20Views&color=0e75b6&style=flat" alt="sahilbhatiya" />
+        </a>
 </h3>
 <h4 align="center">
     ABOUT ME
